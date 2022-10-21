@@ -1,0 +1,1 @@
+console.log("this is another file, which name is app.js");
